@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">OpenCV7thTry</string>
+    <string name="app_name">PianoAR</string>
+    <string name="revertBtn">Invert</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="free_play">Free Play</string>
 </resources>
